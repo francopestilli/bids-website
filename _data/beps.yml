@@ -79,6 +79,9 @@
   leads:
     - name: Franco Pestilli
     - name: Oscar Esteban
+    - name: Ariel Rokem
+    - name: Robert Smith
+
   update: |
     - Being discussed [here](https://github.com/bids-standard/bids-bep016){:target:"_blank"}.
     - Coordinating with BEP017.
@@ -140,7 +143,7 @@
 - number: "022"
   title: Magnetic Resonance Spectroscopy (MRS)
   leads:
-    - name:  Mark Mikkelsen
+    - name: Mark Mikkelsen
     - name: William Clarke
     - name: Martin Wilson
   update: |
